@@ -11,4 +11,4 @@ If its running slow in your phone, use a different browser.
 
 ![alt text](sample_images/sample_image1.jpg?raw=true "I am not an artist.")
 
-![alt text](sample_images/sample_image2.jpg?raw=true)
+<img src="sample_images/sample_image1.jpg" width="50%" height="50%" title="Screenshot">
