@@ -11,4 +11,4 @@ If its running slow in your phone, use a different browser.
 
 <img src="sample_images/sample_image1.jpg" width="25%" height="25%" title="Screenshot">
 
-<img src="sample_images/sample_image2.jpg" width="25%" height="25%" style="transform:rotate(90deg);">
+<img src="sample_images/sample_image2.jpg" width="25%" height="25%">
