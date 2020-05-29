@@ -9,6 +9,6 @@ To open in browser: https://thatguyshzr.github.io/lines_for_browser/index.html
 
 If its running slow in your phone, use a different browser.
 
-![alt text](sample_images/sample_image1.jpg?raw=true "I am not an artist.")
+<img src="sample_images/sample_image1.jpg" width="25%" height="25%" title="Screenshot">
 
-<img src="sample_images/sample_image2.jpg" transform:rotate(90deg); width="25%" height="25%" title="Screenshot">
+<img src="sample_images/sample_image2.jpg" width="25%" height="25%" title="Screenshot">
